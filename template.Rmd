@@ -1,6 +1,7 @@
 ---
 title: "Simple document"
 author: "Yuyao"
+date: 2026-9-17
 output: 
   html_document: 
     toc: true
